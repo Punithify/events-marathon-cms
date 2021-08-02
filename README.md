@@ -6,12 +6,12 @@ This is the cms for the events-mararthon project which uses strapi aa the cms.
 
 To run this project, you will need to add the following environment variables to your .env.local file
 
-HOST=
-PORT=
-CLOUDINARY_NAME=
-CLOUDINARY_KEY=
-CLOUDINARY_SECRET=
-STRIPE_SECRET=
+`HOST`
+`PORT`
+`CLOUDINARY_NAME`
+`CLOUDINARY_KEY`
+`CLOUDINARY_SECRET`
+`STRIPE_SECRET`
 
 ## Run Locally
 
